@@ -204,7 +204,7 @@ allprojects  {
             dependency "com.google.code.findbugs:jsr305:3.0.2"
             dependency "commons-codec:commons-codec:1.15"
             dependency "org.bouncycastle:bcpkix-jdk15to18:1.70"
-            dependency "org.bouncycastle:bcprov-jdk15to18:1.70"
+            dependency "org.bouncycastle:bcprov-jdk15to18:1.72"
 
 
             dependency ('org.apache.activemq:activemq-broker:5.17.0') {
